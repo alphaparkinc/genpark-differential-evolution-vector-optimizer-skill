@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-differential-evolution-vector-optimizer-skill",
+  "version": "1.0.0",
+  "description": "Differential Evolution (DE/rand/1/bin) continuous optimizer with donor vector mutation and binomial crossover.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
